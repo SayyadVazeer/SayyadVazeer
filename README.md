@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sv
-- 👀 I’m interested in Pyton
-- 🌱 I’m currently learning Advanced Pyton,JS
+- 👀 I’m interested in lot
+- 🌱 I’m currently learning Advanced Devops TOOLS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
